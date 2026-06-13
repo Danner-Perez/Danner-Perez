@@ -50,9 +50,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[FinanceOS](#)** | A robust financial management system designed for freelancers. Features multi-account tracking, automated budget rules (50/30/20), and dynamic dashboards. | *Vue.js, Laravel, Tailwind, MySQL* |
+| **[FinanceOS](#)** | A robust financial management system designed for freelancers. Features multi-account tracking, automated budget rules (50/30/20), and dynamic dashboards. | *Vue.js, Laravel, Tailwind* |
 
-*(Note: Don't forget to update the `#` link with the actual URL to your repository when it's public!)*
+
 
 ---
 
