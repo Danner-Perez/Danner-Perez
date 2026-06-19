@@ -1,75 +1,42 @@
-<h2 align="center">Hi 👋, I'm Danner Perez</h2>
-<p align="center">🚀 Full Stack Developer | Building scalable and interactive systems</p>
+<h1 align="center">Danner Perez</h1>
+<p align="center">Full Stack Developer | Building scalable systems</p>
 
----
+<br>
 
 ### 👨‍💻 About Me
+* 🔭 **Building:** **FinanceOS** — Real-time personal finance dashboard for freelancers (50/30/20 budget automation).
+* 🌱 **Focusing on:** Clean software architecture, API development & UI/UX.
+* ⚡ **Fun fact:** I love turning complex financial logic into intuitive user interfaces.
 
-* 🔭 **Currently building:** **FinanceOS** — A comprehensive, real-time personal finance dashboard for freelancers, featuring smart 50/30/20 budget automation and advanced money tracking.
-* 🌱 **Currently focusing on:** Clean software architecture, API development, and enhancing UI/UX experiences.
-* ⚡ **Fun fact:** I love turning complex financial logic into clean, intuitive, and modern user interfaces.
+<br>
 
----
+### 🛠️ Tech Stack
+<p>
+  <!-- Usando Skillicons para un look uniforme y minimalista -->
+  <img src="https://skillicons.dev/icons?i=js,vue,tailwind,html,css,php,laravel,python,docker,linux,ubuntu,git" alt="Tech Stack" />
+</p>
 
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <h3>💻 Frontend</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs" title="Vue.js" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" title="Tailwind CSS" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3" />
-  
-  <br><br>
-  <h3>⚙️ Backend</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" title="PHP" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" title="Laravel" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
-
-  <br><br>
-  <h3>☁️ DevOps, OS & Architecture</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker" title="Docker" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" alt="ubuntu" title="Ubuntu" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git" />
-</div>
-
----
+<br>
 
 ### 🚀 Featured Projects
+**[FinanceOS](#)**
+> A robust financial management system designed for freelancers. Features multi-account tracking, automated budget rules, and dynamic dashboards.
+> *Tech: Vue.js, Laravel, Tailwind*
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[FinanceOS](#)** | A robust financial management system designed for freelancers. Features multi-account tracking, automated budget rules (50/30/20), and dynamic dashboards. | *Vue.js, Laravel, Tailwind* |
-
-
-
----
+<br>
 
 ### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Danner-Perez&show_icons=true&hide_border=true&theme=transparent" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danner-Perez&layout=compact&hide_border=true&theme=transparent&langs_count=5" height="150" alt="languages graph" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danner-Perez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danner-Perez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-</div>
+<br>
 
----
-
-### 📬 Connect with me
-
-<div align="center">
-  <a href="https://youtube.com/@TU_CANAL" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
-  <a href="https://instagram.com/TU_USER" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="https://discord.com/users/TU_USER" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
-  <a href="mailto:45danner@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-</div>
+### 📬 Connect
+<p>
+  <a href="mailto:45danner@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://youtube.com/@TU_CANAL" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://discord.com/users/TU_USER" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://instagram.com/TU_USER" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
